@@ -1,0 +1,4 @@
+https://phoenixnap.com/kb/ubuntu-install-kvm
+
+
+https://linuxconfig.org/install-and-set-up-kvm-on-ubuntu-18-04-bionic-beaver-linux
